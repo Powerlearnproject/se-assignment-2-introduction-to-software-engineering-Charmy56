@@ -137,13 +137,9 @@ Engage in continuous learning and stay informed about ethical best practices
 Promote a culture of ethical decision-making within their organization
 Speak up and address ethical concerns when they arise
 Seek guidance from mentors, peers, or ethical review boards when needed
-Submission Guidelines:
 
 REFERENCES
 BIBLIOGRAPHY
 1. “Fundamentals of Software Engineering”, Rajib Mall, Prentice-Hall of India.
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
 
-Submit your completed assignment by [due date].
+
